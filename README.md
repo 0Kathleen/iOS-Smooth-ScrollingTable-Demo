@@ -31,3 +31,4 @@ Smooth-ScrollingTable  是一个演示如何在 iOS 中实现无限、流畅的�
 
 - 使用 Auto Layout + `estimatedRowHeight` 实现 Self-Sizing Cells。
 
+<img src="/Users/kathleen/Downloads/录屏2025-12-06 18.00.13.gif" alt="录屏2025-12-06 18.00.13" style="zoom:50%;" />
